@@ -1,2 +1,2 @@
 # stream-settings
-twitch.tv/aidenkdr/
+https://www.twitch.tv/aidenkdr/
